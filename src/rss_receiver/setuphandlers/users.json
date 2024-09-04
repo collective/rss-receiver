@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "collective@plone.org",
+      "properties": {
+        "fullname": "rss-receiver",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "rss-receiver"
+    }
+  ],
+    "team": [
+  ]
+}
